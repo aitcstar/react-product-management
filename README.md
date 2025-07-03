@@ -12,27 +12,6 @@ This project is a Product Card UI component built using **React + Vite**, suppor
 
 ---
 
-## 📁 Folder Structure
-
-src/
-├── components/
-│   └── ProductCard.jsx
-├── context/
-│   └── LanguageContext.jsx
-├── stores/
-│   └── useCompareStore.js
-├── i18n/
-│   ├── en.json
-│   └── ar.json
-├── App.jsx
-├── main.jsx
-├── index.css
-
-
-
-
----
-
 ## ⚙️ Setup & Run
 
 ```bash
