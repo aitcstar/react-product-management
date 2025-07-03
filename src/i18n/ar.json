@@ -1,0 +1,15 @@
+{
+    "product": {
+      "from": "من",
+      "to": "إلى",
+      "currency": "دولار",
+      "discount": "خصم",
+      "featured": "مميز",
+      "ai_suggested": "مقترح بالذكاء الاصطناعي",
+      "compare_limit": "يمكنك مقارنة حتى 3 منتجات",
+      "simple": "بسيط",
+      "variable": "متغير",
+      "compare": "قارن",
+      "wishlist": "المفضلة"
+    }
+  }

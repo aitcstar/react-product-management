@@ -1,0 +1,15 @@
+{
+    "product": {
+      "from": "From",
+      "to": "to",
+      "currency": "USD",
+      "discount": "Off",
+      "featured": "Featured",
+      "ai_suggested": "AI Suggested",
+      "compare_limit": "You can compare up to 3 products",
+      "simple": "Simple",
+      "variable": "Variable",
+      "compare": "Compare",
+      "wishlist": "Wishlist"
+    }
+  }

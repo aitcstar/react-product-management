@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": { "en": "iPhone 15", "ar": "آيفون 15" },
+    "price": 999,
+    "original_price": 1199,
+    "discount": 200,
+    "type": "simple",
+    "image": "https://via.placeholder.com/300",
+    "is_featured": true,
+    "ai_suggested": true
+  },
+  {
+    "id": 2,
+    "name": { "en": "T-Shirt", "ar": "تي شيرت" },
+    "type": "variable",
+    "variations": [
+      { "price": 50 },
+      { "price": 75 },
+      { "price": 60 }
+    ],
+    "image": "https://via.placeholder.com/300",
+    "is_featured": false,
+    "ai_suggested": false
+  }
+]
